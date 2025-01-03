@@ -1,6 +1,10 @@
 # 🎯GoalBuddy
 
 **GoalBuddy** is a simple, user-friendly to-do app built using Flutter. It helps you manage your tasks efficiently by allowing you to add, delete, and search tasks with ease.
+<br>
+
+![image](https://github.com/thitiP11222/GoalBuddy/blob/main/goalbud-banner.png)
+
 
 ## Features
 
@@ -11,4 +15,5 @@
 ## Why GoalBuddy?
 
 GoalBuddy is designed to simplify task management. Whether you're managing daily errands or long-term goals, this app ensures you stay focused and productive.
+
 
