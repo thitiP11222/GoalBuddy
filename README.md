@@ -1,16 +1,14 @@
-# goalbuddy
+# 🎯GoalBuddy
 
-A new Flutter project.
+**GoalBuddy** is a simple, user-friendly to-do app built using Flutter. It helps you manage your tasks efficiently by allowing you to add, delete, and search tasks with ease.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Tasks:** Quickly add tasks to organize your day.
+- **Delete Tasks:** Remove tasks once completed or no longer needed.
+- **Search Tasks:** Find specific tasks instantly using the search feature.
 
-A few resources to get you started if this is your first Flutter project:
+## Why GoalBuddy?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+GoalBuddy is designed to simplify task management. Whether you're managing daily errands or long-term goals, this app ensures you stay focused and productive.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
